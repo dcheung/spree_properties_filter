@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_properties_filter'
   s.version     = '2.4.1'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'Property Filters'
+  s.description = 'Property Filters'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'You'
